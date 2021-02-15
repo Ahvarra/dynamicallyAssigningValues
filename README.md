@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Update your object with dynamically assigning values
 That code is supposed to change dynamically values of object's keys respecting their types
 
@@ -100,3 +101,7 @@ console.log(example.password) // "yupStrongOne"
 console.log(example.friends) // ["Mark", "Ada"]
 console.log(example.favouriteNumber) // 22
 ```
+=======
+# dynamicallyAssigningValues
+That code is supposed to dynamically change values of object's keys respecting their types
+>>>>>>> 04d814515ef5795e6777ba827773192d8dc99f52
