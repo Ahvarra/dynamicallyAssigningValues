@@ -1,0 +1,15 @@
+{
+  "name": "dynamicallyassigningvalues",
+  "version": "1.0.0",
+  "description": "That code is supposed to dynamically change values of object's keys respecting their types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Chojnacki",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.1.5",
+    "@types/node": "^12.0.0"
+  }
+}
